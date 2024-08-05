@@ -1,0 +1,4 @@
+../Core/Src/StationTelemetry.c:15:6:SATELLITE_fill_array	2
+../Core/Src/StationTelemetry.c:61:6:SATELLITE_set_first_values	2
+../Core/Src/StationTelemetry.c:119:6:SATELLITE_ready_for_flight__to__apogie	5
+../Core/Src/StationTelemetry.c:181:6:SATELLITE_apogie__to__ground	9
